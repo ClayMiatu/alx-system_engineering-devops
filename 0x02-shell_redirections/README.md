@@ -1,4 +1,1 @@
-#!/bin/bash 
-0x02. Shell, I/O Redirections and filter
-README.md
-
+a script that prints hello world
