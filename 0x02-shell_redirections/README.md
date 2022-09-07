@@ -1,1 +1,1 @@
-a script that prints hello world
+a script on shell redirections
